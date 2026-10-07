@@ -21,11 +21,11 @@ The guide is based on a real setup session (uv `0.12.23`, Windows, PowerShell, C
 
 | # | Document | What it covers |
 |---|----------|----------------|
-| 1 | [Installation and Prerequisites](docs/01-installation.md) | System requirements, installing uv, PATH setup, verification, updating |
-| 2 | [Project Setup](docs/02-project-setup.md) | `uv init`, folder layout, copying data, opening in VS Code |
-| 3 | [Dependency Management](docs/03-dependency-management.md) | `uv add`, dev dependencies, `pyproject.toml`, `uv.lock`, virtual environments |
-| 4 | [Command Reference](docs/04-command-reference.md) | Cheat sheet of the most common uv commands |
-| 5 | [Troubleshooting](docs/05-troubleshooting.md) | Real errors from the session and how to fix them |
+| 1 | [Installation and Prerequisites](01-installation.md) | System requirements, installing uv, PATH setup, verification, updating |
+| 2 | [Project Setup](02-project-setup.md) | `uv init`, folder layout, copying data, opening in VS Code |
+| 3 | [Dependency Management](03-dependency-management.md) | `uv add`, dev dependencies, `pyproject.toml`, `uv.lock`, virtual environments |
+| 4 | [Command Reference](04-command-reference.md) | Cheat sheet of the most common uv commands |
+| 5 | [Troubleshooting](05-troubleshooting.md) | Real errors from the session and how to fix them |
 
 Suggested reading order: 1 → 2 → 3, then keep 4 and 5 handy as references.
 
